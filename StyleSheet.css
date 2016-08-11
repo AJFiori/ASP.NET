@@ -1,0 +1,229 @@
+﻿body {
+    background-image:url(BG.jpg);
+    background-color:#000000;
+    background-repeat:no-repeat;
+
+}
+
+/*Master Page Welcome label*/
+#Welcome {
+    font-size:20px;
+    color:red;
+    float:right;
+    margin: 15px;
+}
+
+/*Master Page Banner*/
+#Banner{
+    margin-left:348px;
+    margin-right:348px;
+    margin-top:10px;
+}
+
+/*Master Page Menu*/
+#Menu{
+     margin-left:350px;
+     margin-right:200px;
+    
+}
+
+/*Default Page Image*/
+img{
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 360px;
+}
+
+/*Master Page Center*/
+.Center{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+
+/*Category page*/
+
+.edit_controls
+{
+    border-radius:5px;
+    padding:10px;
+    background-color:gray;
+    opacity: .8;
+    margin-left:auto;
+    margin-right:auto;
+    width:450px;
+}
+
+/*Search Page*/
+#Search{
+    margin-top:25px;
+    text-align:center;
+}
+
+/*About Page*/
+#OurStory{
+    font-size:25px;
+}
+
+/*About page padding and title*/
+#About{
+    color:red;
+    border-radius:5px;
+    padding:10px;
+    background-color:gray;
+    opacity: .8;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    width:1010px;
+}
+
+/*About page paraghraph color and indent*/
+#About1{
+    color:white;
+    text-indent: 50px;
+}
+
+
+/*Contact Page*/
+#Info{
+    font-size:25px;
+}
+
+/*Contact page padding and title*/
+#Contact{
+    color:red;
+    border-radius:5px;
+    padding:10px;
+    background-color:gray;
+    opacity: .8;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width:500px;
+}
+
+/*Contact List*/
+#Contact1{
+    color:white;
+    text-align:left;
+}
+
+#Contact2{
+    color:white;
+    text-align:left;
+}
+
+#Contact3{
+    color:white;
+    text-align:left;
+}
+
+#GenProd{
+    color:white;
+    font-size:15px;
+    text-align:left;
+    margin-top:50px;
+}
+
+#Disposal{
+    color:white;
+    font-size:15px;
+    text-align:left;
+    margin-top:50px;
+}
+
+#Store{
+    color:white;
+    font-size:15px;
+    text-align:left;
+    margin-top:50px;
+}
+
+
+/*Help Page*/
+#HelpHeader{
+    font-size:25px;
+}
+
+/*Help page padding and title*/
+#Help{
+    color:red;
+    border-radius:5px;
+    padding:10px;
+    background-color:gray;
+    opacity: .8;
+    margin-top:25px;
+    margin-left:auto;
+    margin-right:auto;
+    width:1010px;
+}
+
+/*Help page paraghraph color and indent*/
+#HelpInfo{
+    color:white;
+    text-indent: 50px;
+}
+
+.HelpInfo1{
+    color:white;
+}
+
+
+/*Active Button*/
+.Active_Button{
+    width:100px;
+    display: block;
+    margin:auto;
+    text-align:center;
+}
+
+.Active_Check{
+    width:30px;
+    display: block;
+    margin:auto;
+    text-align:center;
+    
+}
+
+.edit_column
+{   color:#000000;
+    float:left;
+}
+
+
+.edit_column_validator
+{
+    margin-left:120px;
+    margin-right:100px;
+    float:left;
+    padding-left:50px;
+}
+.edit_clear
+{
+    clear:both;
+    padding-bottom:13px;
+}
+
+
+/*Footer*/
+.footer
+{
+    clear:both;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    bottom:0;
+    min-height:35px;
+}
+
+.textarea
+{
+    clear:both;
+    padding:5px 5px 5px 5px;
+    text-align:left;
+    margin-top:100px;
+}
+
